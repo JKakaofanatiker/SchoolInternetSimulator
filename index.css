@@ -1,0 +1,17 @@
+.noPain {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.pain {
+    text-align: center;
+}
+
+.suffering {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+}
